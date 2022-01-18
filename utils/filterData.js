@@ -114,7 +114,7 @@ export const filterData = [
         { name: 'Meublés', value: 'furnished' },
         { name: 'Non Meublés', value: 'unfurnished' },
       ],
-      placeholder: 'Type d\'habitation',
+      placeholder: 'Statut Locatif',
       queryName: 'furnishingStatus',
     },
     {
